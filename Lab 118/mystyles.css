@@ -1,0 +1,27 @@
+
+
+body{
+  background-color: #BB99AA;
+  margin:0;
+}
+
+#wrapperDiv{
+  background-color: #003129;
+  height: 1000px;
+  width: 1000px;
+  border: solid black 1px;
+  margin:auto;
+}
+
+#rightBox{
+  background-color: #E718DA;
+  height: 900px;
+  width: 100px;
+  float:right;
+}
+
+#bottomBox{
+  background-color: #1830FB;
+  height: 100px;
+  width: 1000px;
+}
